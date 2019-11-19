@@ -3,3 +3,6 @@
 Here is where you can desribe any project that plan on doing.
 
 These are the NEW CHANGES.
+Some new features were added.
+
+Right Here.
