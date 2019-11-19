@@ -6,3 +6,14 @@ These are the NEW CHANGES.
 Some new features were added.
 
 Right Here.
+
+
+SSH:
+
+git@github.com:aakarkale/git-workflow-macbookpro.git
+
+
+
+HTTPS:
+
+https://github.com/aakarkale/git-workflow-macbookpro.git
