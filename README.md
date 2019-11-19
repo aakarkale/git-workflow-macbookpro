@@ -17,3 +17,7 @@ git@github.com:aakarkale/git-workflow-macbookpro.git
 HTTPS:
 
 https://github.com/aakarkale/git-workflow-macbookpro.git
+
+
+
+Always remember use HTTPS to push to your git repo.
