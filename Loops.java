@@ -7,11 +7,6 @@
 In this Java file we will practice each one of them individually and thoroughly.
  */
 
-
-/* Here is a link for an explanation video on Loops:-
-
- https://www.youtube.com/playlist?list=PLlhM4lkb2sEiScGRZEHkHsI1ncXKLq5Zp      */
-
 public class Loops
 {
     public static void main(String[] args)
