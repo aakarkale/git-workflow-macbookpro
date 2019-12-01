@@ -23,7 +23,6 @@ public class DecisionMaking
 
         // If.....Else Statements
 
-
         System.out.print("Enter the value of y: ");
         Scanner input = new Scanner(System.in);
         int y = input.nextInt();
@@ -36,6 +35,8 @@ public class DecisionMaking
         {
             System.out.println("\nGoodbye, See you next time.\n");
         }
+
+        System.out.println();
 
         // Also, practice "Nested If....Else" Statements thoroughly...
     }
