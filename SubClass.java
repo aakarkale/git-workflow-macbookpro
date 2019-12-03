@@ -28,7 +28,15 @@ class SubClass extends SuperClass
         System.out.println("value of the variable named num in SuperClass: "+ super.num);
     }
 
+    public void displaySuperContents()
+    {
+//As you can see, I am using the "SUPER" keyword here to access the variables in the SuperClass from the SubClass.
 
+        System.out.println(super.name);
+        System.out.println(super.l);
+        System.out.println(super.num);
+        System.out.println(super.z);
+    }
 
 
 
@@ -50,7 +58,9 @@ class SubClass extends SuperClass
 
         SubClass obj = new SubClass();
         obj.my_method();
-
+        System.out.println("\nHere are the variables initialized in the SuperClass, but the " +
+                "method \"displaySuperContents()\" in which the variables are defined is in SubClass.\n");
+        obj.displaySuperContents();
 
 
 
@@ -73,5 +83,6 @@ class SubClass extends SuperClass
         double z = input.nextDouble();
         double g = input.nextDouble();
         objSuper.myGPA(x,y,z,g);
+
     }
 }
