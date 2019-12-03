@@ -2,14 +2,15 @@
 Inheritance can be defined as the process where one class acquires the properties (methods and fields) of another.
 With the use of inheritance the information is made manageable in a hierarchical order.
 
-So Basically a SubClass inherits everything except for the Constructor.
+So Basically a SubClass inherits everything.
  */
 
 class SuperClass
 {
     int z;
-    private double l;
+    double l;
     int num = 20;
+    String name = "Monil Parachute";
 
     // display method of superclass
     public void display()
