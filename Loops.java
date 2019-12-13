@@ -3,9 +3,8 @@
 1. While
 2. Do....While
 3. For
-
-In this Java file we will practice each one of them individually and thoroughly.
  */
+//  In this Java file we will practice each one of them individually and thoroughly.
 
 public class Loops
 {
