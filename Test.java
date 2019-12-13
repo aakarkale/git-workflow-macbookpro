@@ -1,5 +1,5 @@
 public class Test
-{
+{ // You can use this Test File as a SuperClass
 
     public static void main(String []args)
     {
