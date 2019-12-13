@@ -4,6 +4,7 @@ With the use of inheritance the information is made manageable in a hierarchical
 */
 
 //https://www.tutorialspoint.com/java/images/types_of_inheritance.jpg
+// This is the most basic Inheritance code which has the SuperClass and the SubClass in the same file.
 
 class Calculation
 {
