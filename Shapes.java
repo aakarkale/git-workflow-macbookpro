@@ -4,7 +4,7 @@ public class Shapes extends Box
     public void surfaceArea(int w,int h)
     {
         a = w*h;
-        System.out.println("The area is: "+a);
+        System.out.println("Area: "+a);
     }
 
     public static void main(String[] args) {
