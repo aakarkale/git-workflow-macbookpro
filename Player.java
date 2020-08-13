@@ -21,7 +21,7 @@ public class Player {
         return TotalPoints;
     }
     public void printInfo(){
-        System.out.println("Name" +Name);
+        System.out.println("Player Name" +Name);
         System.out.println("Age"+Age);
         System.out.println("Total Points"+TotalPoints);
     }
